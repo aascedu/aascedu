@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Arthur</h1>
+<h1 align="center">Arthur's GitHub</h1>
 <h3 align="center">42 Lyon student.</h3>
 
 - I’m currently working on **the common core at 42 school.**
