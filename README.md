@@ -2,7 +2,6 @@
 <h3 align="center">42school student.</h3>
 
 - I’m currently working on **the common core at 42 school.**
-
 - I’m currently learning **C.**
 
 <h3 align="left">Languages and Tools:</h3>
