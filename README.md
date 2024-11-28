@@ -1,5 +1,5 @@
-<h1 align="center">Arthur's GitHub</h1>
-<h3 align="center">42 Lyon student.</h3>
+<h1 align="center">Arthur ASCEDU</h1>
+<h3 align="center">42 Lyon student. DevOps / NetDevOps.</h3>
 
 - Finished **the common core at 42 school.**
 - Just started an internship at Dstny France as a **NetDevOps**.
