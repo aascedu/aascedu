@@ -2,7 +2,7 @@
 <h3 align="center">42 Lyon student.</h3>
 
 - Finished **the common core at 42 school.**
-- Just started an internship at Dstny France as a NetDevOps.
+- Just started an internship at Dstny France as a **NetDevOps**.
     I will focus on the **compliance of our network policies** for deployed devices (router, switch, firewall) throughout their lifetime.
     As well, I am working on a plugin for Netbox, to connect Netbox with our ERP Software and our Vault.
 
