@@ -1,21 +1,21 @@
 # Hi, I'm Arthur Ascedu
 
-🎯 **Junior Software Developer** with a strong focus on DevOps practices, automation, and network infrastructure. I thrive in collaborative environments and aim for continuous improvement.
+**Junior Software Developer** with a strong focus on DevOps practices, automation, and network infrastructure. I thrive in collaborative environments and aim for continuous improvement.
 
-📍 Based in Lyon, France  
-🎓 Currently studying at 42 Lyon (Expert in Software Architecture, 2022–2027)  
-🔍 Looking for a work-study opportunity (2 weeks company / 1 week school) starting **September 2025**
+- Based in Lyon, France  
+- Currently studying at 42 Lyon (Expert in Software Architecture, 2022–2027)  
+- Looking for a work-study opportunity (2 weeks company / 1 week school) starting **September 2025**
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 - **Languages**: C, C++, Python, Shell
 - **DevOps & Tools**: Docker, docker-compose, Prometheus, Grafana, NetBox, HashiCorp Vault, Git
 - **Systems & Network**: UNIX, Networking, GDB, Reverse Engineering
 
 ---
 
-## 💼 Experience
+## Experience
 
 **NetDevOps Intern**  
 *Dstny France, Lyon — Sep 2024 to Feb 2025*  
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Projects
+##  Projects
 
 - [**ft_transcendence**](https://github.com/Les-Transcenpotes/ft_transcendence): Microservices web app using Docker + NGINX, real-time monitoring with Prometheus/Grafana  
 - **[snowcrash](https://github.com/aascedu/snow-crash) / [rainfall](https://github.com/aascedu/rainfall)**: Binary exploitation and privilege escalation (GDB, memory analysis)  
@@ -36,7 +36,7 @@
 
 ---
 
-## 📚 Education
+## Education
 - **42 Lyon** – Software Architecture (BAC+5)  
 - **CPGE TSI** – Lycée Aux Lazaristes  
 - **Bac STI2D** – Lycée Militaire d’Aix en Provence  
@@ -44,9 +44,9 @@
 
 ---
 
-## 🌍 Languages
+## Languages
 - French (Native), English (Fluent)
 
 ---
 
-📫 [Email Me](mailto:aascedu@student.42lyon.fr) | [LinkedIn](https://www.linkedin.com/in/arthurascedu/)
+[Email Me](mailto:aascedu@student.42lyon.fr) | [LinkedIn](https://www.linkedin.com/in/arthurascedu/)
