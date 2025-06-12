@@ -27,11 +27,11 @@
 ---
 
 ##  Projects
-
-- [**ft_transcendence**](https://github.com/Les-Transcenpotes/ft_transcendence): Microservices web app using Docker + NGINX, real-time monitoring with Prometheus/Grafana  
-- **[snowcrash](https://github.com/aascedu/snow-crash) / [rainfall](https://github.com/aascedu/rainfall)**: Binary exploitation and privilege escalation (GDB, memory analysis)  
-- [**minishell**](https://github.com/aascedu/minishell): Custom UNIX shell in C  
-- [**ft_irc**](https://github.com/aascedu/ft_irc): C++98 IRC server with multi-client handling, channel options, and a ChatGPT-integrated bot  
+- [**cloud-1**](https://github.com/aascedu/cloud-1): Automated deployment of a LEMP Stack website on the cloud using Ansible.  
+- [**ft_transcendence**](https://github.com/Les-Transcenpotes/ft_transcendence): Microservices web app using Docker + NGINX, real-time monitoring with Prometheus/Grafana.  
+- **[snowcrash](https://github.com/aascedu/snow-crash) / [rainfall](https://github.com/aascedu/rainfall)**: Binary exploitation and privilege escalation (GDB, memory analysis).  
+- [**minishell**](https://github.com/aascedu/minishell): Custom UNIX shell in C.  
+- [**ft_irc**](https://github.com/aascedu/ft_irc): C++98 IRC server with multi-client handling, channel options, and a ChatGPT-integrated bot.  
 - Other projects are available in my [**repositories**](https://github.com/aascedu?tab=repositories) for you to check out, *but may not represent my interest or lack of standards*.
 
 ---
