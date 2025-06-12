@@ -49,4 +49,4 @@
 
 ---
 
-[Email Me](mailto:aascedu@student.42lyon.fr) | [LinkedIn](https://www.linkedin.com/in/arthurascedu/)
+[Email Me](mailto:arthurascedu@proton.me) | [LinkedIn](https://www.linkedin.com/in/arthurascedu/)
