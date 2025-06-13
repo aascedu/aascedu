@@ -4,7 +4,7 @@
 
 - Based in Lyon, France  
 - Currently studying at 42 Lyon (Expert in Software Architecture, 2022–2027)  
-- Looking for a work-study opportunity (2 weeks company / 1 week school) starting **September 2025**
+- Apprentice at **HPE** as an Delivery Engineer since september 2025
 
 ---
 
