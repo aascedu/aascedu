@@ -4,7 +4,7 @@
 
 - Based in Lyon, France  
 - Currently studying at 42 Lyon (Expert in Software Architecture, 2022–2027)  
-- Apprentice at **HPE** as an Delivery Engineer since september 2025
+- Apprentice at **HPE** as an HPC Engineer since september 2025
 
 ---
 
